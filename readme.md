@@ -1,5 +1,7 @@
-start file: pdfjs-develop/web/test.html
-启动文件：pdfjs-develop/web/test.html
+start file: **pdfjs-develop/web/test.html**
+
+启动文件：**pdfjs-develop/web/test.html**
+
 
 **中文版在后半部分**
 
