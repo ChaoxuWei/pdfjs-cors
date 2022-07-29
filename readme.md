@@ -2,6 +2,10 @@ start file: **pdfjs-develop/web/test.html**
 
 启动文件：**pdfjs-develop/web/test.html**
 
+**Add annotation functions for pdf.js:** https://demos.libertynlp.com/#/pdfjs-annotation
+
+**给pdf.js增加批注功能:** https://demos.libertynlp.com/#/pdfjs-annotation
+
 
 **中文版在后半部分**
 
